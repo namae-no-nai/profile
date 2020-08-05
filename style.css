@@ -2,14 +2,12 @@
 .container {
   width: 700px;
   margin: 0 auto;
-  text-align: center;
 }
-
-​
 body {
   background-color: #F7F9FC;
   color: #575F7D;
   font-family: 'Lora', serif;
+  text-align: center;
 }
 
 .card {
